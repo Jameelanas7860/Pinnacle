@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pinnacle/static/css/main.02f05712.css",
+    "main.js": "/Pinnacle/static/js/main.625fb9c6.js",
+    "static/js/488.c376176c.chunk.js": "/Pinnacle/static/js/488.c376176c.chunk.js",
+    "index.html": "/Pinnacle/index.html",
+    "main.02f05712.css.map": "/Pinnacle/static/css/main.02f05712.css.map",
+    "main.625fb9c6.js.map": "/Pinnacle/static/js/main.625fb9c6.js.map",
+    "488.c376176c.chunk.js.map": "/Pinnacle/static/js/488.c376176c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02f05712.css",
+    "static/js/main.625fb9c6.js"
+  ]
+}

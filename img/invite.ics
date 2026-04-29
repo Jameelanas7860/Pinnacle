@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=HR:mailto:hr@gigasoft.in
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=anasjameel
+ 0786@gmail.com:mailto:anasjameel0786@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Anshul Bha
+ lla:mailto:anshul@gigasoft.in
+DESCRIPTION;LANGUAGE=en-IN:\n______________________________________________
+ __________________________________\nMicrosoft Teams meeting Need help?<htt
+ ps://aka.ms/JoinTeamsMeeting?omkt=en-IN>\nJoin: https://teams.microsoft.co
+ m/meet/412819505097?p=dt19UtQH3QDhHUn5SJ <https://teams.microsoft.com/l/me
+ etup-join/19%3ameeting_ZDMzOTMxNzMtNGM2Yi00MmUzLTkyNjEtYjZiNDFlYWFhN2U3%40
+ thread.v2/0?context=%7b%22Tid%22%3a%226a69d46c-4f69-4da3-8de6-bf076802eaab
+ %22%2c%22Oid%22%3a%22d309a070-5aaf-4865-9b6d-b918be9e2619%22%7d>\nMeeting 
+ ID: 412 819 505 097\nPasscode: rX7m8bq6\n________________________________\
+ nFor organizers: Meeting options<https://teams.microsoft.com/meetingOption
+ s/?organizerId=d309a070-5aaf-4865-9b6d-b918be9e2619&tenantId=6a69d46c-4f69
+ -4da3-8de6-bf076802eaab&threadId=19_meeting_ZDMzOTMxNzMtNGM2Yi00MmUzLTkyNj
+ EtYjZiNDFlYWFhN2U3@thread.v2&messageId=0&language=en-IN>\n________________
+ ________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000D9E49892D688DB01000000000000000
+ 0100000004A8AC4B19DF9DF4ABC51D613284AE820
+SUMMARY;LANGUAGE=en-IN:Anas Jameel : Virtual Interview for Web Developer/De
+ signer at GigaSoft (Gurugram)
+DTSTART;TZID=India Standard Time:20250227T123000
+DTEND;TZID=India Standard Time:20250227T130000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250227T051513Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-IN:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:2123553241
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_ZDMzOTMxNzMtNGM2Yi00MmUzLTkyNjEtYjZiNDFlYWFhN2U3%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%226a69d46c-4f69-4da3-8de6-bf076802eaab%22%2c%22O
+ id%22%3a%22d309a070-5aaf-4865-9b6d-b918be9e2619%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://flighting-api.scheduler.team
+ s.microsoft.com/teams/6a69d46c-4f69-4da3-8de6-bf076802eaab/d309a070-5aaf-4
+ 865-9b6d-b918be9e2619/19_meeting_ZDMzOTMxNzMtNGM2Yi00MmUzLTkyNjEtYjZiNDFlY
+ WFhN2U3@thread.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_ZDMzOTMxNzMtNGM2Yi00MmU
+ zLTkyNjEtYjZiNDFlYWFhN2U3@thread.v2"\,"rid":0\,"mid":0\,"uid":null\,"priva
+ te":true\,"type":0}
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONDISPLAYNAME:Microsoft Teams Meeting
+X-MICROSOFT-LOCATIONSOURCE:None
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"Microsoft Teams Meeting"\,"LocationA
+ nnotation":""\,"LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"
+ LocationState":""\,"LocationCountry":""\,"LocationPostalCode":""\,"Locatio
+ nFullAddress":""}]
+END:VEVENT
+END:VCALENDAR
