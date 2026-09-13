@@ -30,7 +30,7 @@ The main focus of this project was to practice React.js concepts, create reusabl
 
 ## 📂 Project Structure
 
-```text
+
 Pinnacle/
 ├── public/
 ├── src/
@@ -39,47 +39,46 @@ Pinnacle/
 │   └── index.js
 ├── package.json
 └── README.md
-```
+
 
 ## ⚙️ Installation and Setup
 
 1. Clone the repository:
 
-```bash
+bash
 git clone https://github.com/Jameelanas7860/Pinnacle.git
-```
+
 
 2. Open the project folder:
-
-```bash
+   
+bash
 cd Pinnacle
-```
+
 
 3. Install dependencies:
 
-```bash
+bash
 npm install
-```
+
 
 4. Start the development server:
 
-```bash
+bash
 npm start
-```
+
 
 5. Open the application in your browser:
 
-```text
+
 http://localhost:3000
-```
+
 
 ## 🎯 Learning Outcome
 
 Through this project, I improved my practical knowledge of React.js, component-based architecture, responsive web design, and frontend development.
 
 ## 👨‍💻 Author
-
-**Anas Jameel**
+Anas Jameel
 
 Frontend Developer
 
